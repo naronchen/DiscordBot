@@ -1,2 +1,2 @@
 # DiscordBot
-An evolving bot just to have fun for me and my friends
+A simple(evolving!) discord bot project using Node.js
