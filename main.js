@@ -31,4 +31,4 @@ client.on('message', message =>{
 
 
 
-client.login('OTExMTI2MDIwMDE3NTAwMjAy.YZc2Ow.Qm4fD7jdFiM61ZglbmtaV79EQpY')
+client.login('Token')
