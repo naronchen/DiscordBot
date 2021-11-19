@@ -1,2 +1,2 @@
 # DiscordBot
-Used Node.js and created the highly acclaimed “notWorkingBot”
+An evolving bot just to have fun for me and my friends
